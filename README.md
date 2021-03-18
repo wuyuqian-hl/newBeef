@@ -20,3 +20,4 @@ Classify 分类
 ShoppingTrolley 购物车
 MySet 我的
 Login 登录
+ShopDetail 商品详情
